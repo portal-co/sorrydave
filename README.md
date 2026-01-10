@@ -1,13 +1,14 @@
-# @portal-solutions/sorrydave
+# portal-solutions-sorrydave
 
 ## Description
-Bans environments inconguent with our security
+"Bans environments incongruent with our security" (`sorrydave`). A security enforcement tool.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Enforce security policies
+- [ ] Ban non-compliant environments
 
 ## Progress
-- [ ] Initial setup
+- [ ] Package setup
 
 ---
 *AI assisted*
